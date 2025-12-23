@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full stack devlopment (MERN ) 
+Aspiring Full Stack Developer (MERN ) 
 
 
 # 💻 Tech Stack:
