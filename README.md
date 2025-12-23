@@ -1,4 +1,3 @@
-# 💫 About Me:
 Aspiring Full Stack Developer (MERN ) 
 
 
