@@ -1,4 +1,4 @@
-# Aspiring Full Stack Developer (MERN ) 
+# Aspiring Full Stack Development (MERN ) 
 
 
 # 💻 Tech Stack:
